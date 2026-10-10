@@ -1,0 +1,3 @@
+Jetson version: https://youtu.be/Cko8cb4GsbA
+Raspberry Pi version: https://youtu.be/pZffJgIfriM
+RDK version: https://youtu.be/O-bqKAT0he0
